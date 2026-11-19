@@ -1,1 +1,1 @@
-# C.L.A.R.A - Collaborative Learning And Remote Assistance ─╯
+# C.L.A.R.A - Collaborative Learning And Remote Assistance
